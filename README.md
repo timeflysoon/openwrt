@@ -274,11 +274,8 @@ sirpdboy
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图飞了" title="返回顶部" align="right"/>
 </a>
 
-***本固件基于lean大佬的源码编译，外加一些额外的软件包，主要使用源码如下：***
-### https://github.com/coolsnowwolf/lede
+***本固件基于官方源码编译，外加一些额外的软件包，主要使用源码如下：***
 ### https://github.com/sirpdboy/openwrt-package (sirpdboy插件源码仓库）
-### https://github.com/immortalwrt/immortalwrt
-### https://github.com/istoreos/istoreos
 ### https://github.com/openwrt/openwrt
 
 
